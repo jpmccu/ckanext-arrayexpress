@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ckanext-arrayexpress
+Version: 0.1
+Summary: Harvester and supporting code for importing dataset descriptions from ArrayExpress via their API and MAGE-TAB files.
+Home-page: https://github.com/jimmccusker/ckanext-arrayexpress
+Author: James McCusker
+Author-email: james.mccusker@yale.edu
+License: Apache 2.0 License
+Description: 	
+Platform: UNKNOWN

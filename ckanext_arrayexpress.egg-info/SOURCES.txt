@@ -1,0 +1,10 @@
+setup.py
+ckanext/__init__.py
+ckanext/arrayexpress/__init__.py
+ckanext_arrayexpress.egg-info/PKG-INFO
+ckanext_arrayexpress.egg-info/SOURCES.txt
+ckanext_arrayexpress.egg-info/dependency_links.txt
+ckanext_arrayexpress.egg-info/entry_points.txt
+ckanext_arrayexpress.egg-info/namespace_packages.txt
+ckanext_arrayexpress.egg-info/not-zip-safe
+ckanext_arrayexpress.egg-info/top_level.txt
