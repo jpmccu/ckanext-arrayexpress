@@ -25,6 +25,7 @@ setup(
 	entry_points=\
 	"""
         [ckan.plugins]
+        arrayexpress=ckanext.arrayexpress:ArrayExpressHarvester
 	# Add plugins here, eg
 	# myplugin=ckanext.arrayexpress:PluginClass
 	""",
